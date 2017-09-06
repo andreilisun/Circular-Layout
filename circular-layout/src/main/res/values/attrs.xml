@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularLayoutAttrs">
+        <attr name="angle" format="float" />
+        <attr name="capacity" format="integer" />
+    </declare-styleable>
+</resources>
