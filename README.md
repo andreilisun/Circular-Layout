@@ -5,11 +5,11 @@ A layout that arranges other views in a circle.
 ## Demo
 ![CircularLayout](art/circular_layout.png)
 
-<!-- ## Download
+## Download
 Add this line to the `build.gradle` of your module:
 ```groovy
-compile 'com.github.andreilisun:'
-``` -->
+compile 'com.github.andreilisun:circular-layout:1.0'
+``` 
 
 ## How to use
 

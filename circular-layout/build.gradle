@@ -38,5 +38,5 @@ publish {
     artifactId = 'circular-layout'
     publishVersion = '1.0'
     desc = 'A layout that arranges other views in a circle.'
-    website = 'https://github.com/andreilisun'
+    website = 'https://github.com/andreilisun/Circular-Layout'
 }
